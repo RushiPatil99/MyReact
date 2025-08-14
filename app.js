@@ -5,7 +5,6 @@ const Title = () => (
     Namaste by JSX
   </h1>
 );
-
 const HeadingComponent = () => (
   <div id="container">
     <Title />
