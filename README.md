@@ -41,9 +41,7 @@
 # two ways to write functiona components
 
 const headingComponent = () => {
-
 return <h1 className="heading">Namaste React from functional components</h1>;
-
 }
 
 # AND
@@ -52,3 +50,5 @@ const headingComponent = () => (
 
   <h1 className="heading">Namaste React from functional components</h1>
 );
+
+# new comment
